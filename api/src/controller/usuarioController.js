@@ -1,4 +1,4 @@
-import { login } from '../repository/usuarioRepository.js';
+import { login } from '../repository/usuarioRepository.js'
 
 import { Router } from 'express';
 const server = Router();

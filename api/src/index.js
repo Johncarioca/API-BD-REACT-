@@ -1,9 +1,8 @@
 import 'dotenv/config'
 
-
-// importe dos end-poits
-import usuarioController from './controller/usuarioController.js';
-import filmeController  from './controller/usuarioController.js' ;
+// importações dos end-poits
+import usuarioController from './controller/usuarioController.js'
+import filmeController  from './controller/filmeController.js' 
 
 
 import express from 'express'
